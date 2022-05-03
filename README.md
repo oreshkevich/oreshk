@@ -2,8 +2,11 @@
 
 ## My name is Gena!
 
-
+## I'm a FrontEnd Developer
+- 💪 I like to write code
+- 🎉 I love to paint and play the guitar
 - 🌱 I’m spending my spare time with React!
+- 
 ### Connect with me:
 
 
