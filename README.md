@@ -4,10 +4,22 @@
 
 
 - 🌱 I’m spending my spare time with React!
+### Connect with me:
 
+
+[<img align="left" alt="Oresh | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreshkevich&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oreshkevich&show_icons=true" />
+</details>
 
 ## LANGUAGES
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya758&layout=compact)
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=oreshkevich&layout=compact)
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
