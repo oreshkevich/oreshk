@@ -34,7 +34,7 @@
 
 ![](https://img.shields.io/badge/Libs-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=magenta)
 
-![](https://img.shields.io/badge/TimeManagement-Trello/ClickUp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aquamarine)
+![](https://img.shields.io/badge/TimeManagement-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=aquamarine)
 
 ![](https://img.shields.io/badge/Methods-BEM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
