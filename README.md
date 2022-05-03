@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## My name is Gena!
+![](https://komarev.com/ghpvc/?username=oreshkevich)
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
