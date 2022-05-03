@@ -11,12 +11,7 @@
 
 <br />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreshkevich&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oreshkevich&show_icons=true" />
-</details>
+
 ## LANGUAGES
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
@@ -42,6 +37,15 @@
 
 ![](https://img.shields.io/badge/Methods-BEM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreshkevich&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oreshkevich&show_icons=true" />
+</details>
+
 ### Wish y'all success!
+
 [vk]: https://vk.com/id262551794
-[vk]: https://vk.com/vladislavkalachov
+
+
