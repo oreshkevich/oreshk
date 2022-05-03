@@ -17,9 +17,7 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oreshkevich&show_icons=true" />
 </details>
-
 ## LANGUAGES
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=oreshkevich&layout=compact)
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
@@ -45,3 +43,5 @@
 ![](https://img.shields.io/badge/Methods-BEM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
 ### Wish y'all success!
+[vk]: https://vk.com/id262551794
+[vk]: https://vk.com/vladislavkalachov
