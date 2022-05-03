@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/Code-StyledComponents-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brown)
-![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=gold)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-DevTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=beige)
